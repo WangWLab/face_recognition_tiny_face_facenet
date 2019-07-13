@@ -1,1 +1,2 @@
-# face_recognition_tiny_face_facenet
+运行命令：python main.py
+运行之后，会依次执行抽帧，人脸检测，人脸区域分割，清晰模糊图片分类，人脸识别
